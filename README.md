@@ -39,21 +39,21 @@
 
 ### 💼 **Professional Experience**
 
-<div align="center" style="background-color:#e3f2fd; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color:#e3f2fe; padding: 15px; border-radius: 10px;">
 
-#### **Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024
+**Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024
 - Developed hands-on labs in **Machine Learning** & **AI**.
 - Achieved **93.7% accuracy** in autopilot systems with machine learning models.
 
-#### **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023
+ **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023
 - Automated Azure deployments and optimized cloud costs with **Azure Cost Management**.
 - Deployed **Key Vault** and firewalls for secure resource management.
 
-#### **Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022
+**Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022
 - Architected secure, multi-tier AWS infrastructure using **VPCs** and **IAM** policies.
 - Implemented **CloudTrail** and automated security monitoring for compliance.
 
-#### **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021
+ **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021
 - Developed **IaC scripts** using **AWS CloudFormation**, automating deployments with reduced error rates.
 - Deployed AI models in **AWS SageMaker** for large datasets and optimized **TensorFlow** predictions.
 
@@ -113,10 +113,3 @@
 
 </div>
 
----
-
-> **Tip:** The background colors used here can be adjusted by customizing the CSS to match your style. It provides a clean, modern look with sections that highlight your expertise in **Cloud Engineering**.
-
----
-
-This profile uses **background colors** with well-structured sections that emphasize your cloud engineering skills. The soft tones provide a polished and professional aesthetic while logos and GitHub stats add dynamism. You can customize the colors or background as needed for your personal style!
