@@ -1,6 +1,6 @@
 
 
-<div align="center" style="background-color:#f0f4f8; padding: 20px; border-radius: 15px;">
+<div align="center" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
   
   <h1>Hi there, I'm <strong> Sai Swaroop Kakuru</strong> 👋</h1>
   
@@ -26,7 +26,7 @@
 
 ### 🌟 **What I Do**
 
-<div align="center" style="background-color:#d3e0ea; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
   
   - **Cloud Solutions Architecture**: Expert in designing secure, scalable infrastructures on AWS & Azure.
   - **Automation & DevOps**: Building automated deployment pipelines with **Terraform**, **Jenkins**, and **GitHub Actions**.
@@ -39,7 +39,7 @@
 
 ### 💼 **Professional Experience**
 
-<div align="center" style="background-color:#e3f2fe; padding: 15px; border-radius: 10px;">
+<div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
 
 **Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024
 - Developed hands-on labs in **Machine Learning** & **AI**.
@@ -106,7 +106,7 @@
 
 ### 🤝 **Let’s Connect**
 
-<div align="center" style="background-color:#f0f4f8; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
   
 - **LinkedIn**: [sai-swaroop-1199sai](https://linkedin.com/in/sai-swaroop-1199sai)
 - **Email**: saiswaroopreddy11@gmail.com
