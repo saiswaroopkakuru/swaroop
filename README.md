@@ -132,7 +132,7 @@
 
 <div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
   
-- **LinkedIn**: [sai-swaroop-1199sai](https://linkedin.com/in/sai-swaroop-1199sai)
+- **LinkedIn**: [sai-swaroop-1199sai](https://linkedin.com/in/sai-swaroop-1199)
 - **Email**: saiswaroopreddy11@gmail.com
 
 </div>
