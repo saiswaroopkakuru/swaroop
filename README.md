@@ -41,7 +41,7 @@
 
 <div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
 
-**Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024
+**Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024 | Carbondale,IL
 
 •	Assisted college students with putting in various software program and having access to the school device, preserving the pc lab operations. 
 •	Researched reinforcement learning, TensorFlow, and Torch, making use of those in route substances to beautify getting to know. 
@@ -53,7 +53,7 @@
 •	Supervised capstone projects, which includes system identity and plant modeling the use of Simulink.
 
 
- **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023
+ **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023| Carbondale,IL
 
 • Managed and monitored Azure virtual machines, storage, and network resources. 
 •	Implemented Azure Active Directory and RBAC for secure access control. 
@@ -62,7 +62,7 @@
 •	Deployed and configured Azure security tools like Key Vault and firewalls. 
 •	Troubleshot performance and connectivity issues in Azure environments
 
-**Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022
+**Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022 | Chennai,India
 
 •	Architected stable, multi-tier infrastructure with AWS VPCs, subnets, and security corporations. 
 •	Enhanced application safety with the aid of integrating AWS CloudFront with SSL/TLS for encrypted content material delivery. 
@@ -70,7 +70,7 @@
 •	Automated safety monitoring with AWS CloudTrail, making sure compliance with guidelines. 
 •	Applied AWS KMS for facts encryption in transit and at rest, securing touchy information
 
- **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021
+ **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021 | Hyderabad,India
 
 • Created IaC scripts using AWS CloudFormation, speeding up deployment processes and reducing errors. 
 •	Built and trained machine learning models in AWS SageMaker for large data sets. 
