@@ -28,10 +28,10 @@
 
 <div align="center" style="background-color:#0000FF; padding: 15px; border-radius: 10px;">
   
-  - **Cloud Solutions Architecture**: Expert in designing secure, scalable infrastructures on AWS & Azure.
-  - **Automation & DevOps**: Building automated deployment pipelines with **Terraform**, **Jenkins**, and **GitHub Actions**.
-  - **AI & ML Model Deployment**: Hands-on experience with **AWS SageMaker**, **TensorFlow**, and deploying machine learning models in the cloud.
-  - **Cost Optimization**: Skilled in reducing cloud costs with resource monitoring and budget alerts.
+ **Cloud Solutions Architecture**: Expert in designing secure, scalable infrastructures on AWS & Azure.
+**Automation & DevOps**: Building automated deployment pipelines with **Terraform**, **Jenkins**, and **GitHub Actions**.
+ **AI & ML Model Deployment**: Hands-on experience with **AWS SageMaker**, **TensorFlow**, and deploying machine learning models in the cloud.
+**Cost Optimization**: Skilled in reducing cloud costs with resource monitoring and budget alerts.
   
 </div>
 
@@ -42,20 +42,44 @@
 <div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 15px;">
 
 **Teaching Assistant** – Southern Illinois University | Jan 2023 – May 2024
-- Developed hands-on labs in **Machine Learning** & **AI**.
-- Achieved **93.7% accuracy** in autopilot systems with machine learning models.
+
+•	Assisted college students with putting in various software program and having access to the school device, preserving the pc lab operations. 
+•	Researched reinforcement learning, TensorFlow, and Torch, making use of those in route substances to beautify getting to know. 
+•	Developed fingers-on lab sessions specializing in autopilot systems, demonstrating device mastering models with over 
+93.7% accuracy. 
+•	Guided co students through a direction making plans project that optimized electric powered vehicle performance using reinforcement getting to know. 
+•	Led sensible periods on photograph type using CNNs, accomplishing up to 70% accuracy. 
+•	Conducted sentiment analysis workshops, in which college students constructed fashions that categorized IMDB critiques with 89% accuracy. 
+•	Supervised capstone projects, which includes system identity and plant modeling the use of Simulink.
+
 
  **Azure Cloud Engineer Intern** – SalukiTech Service Center | May 2023 – Sept 2023
-- Automated Azure deployments and optimized cloud costs with **Azure Cost Management**.
-- Deployed **Key Vault** and firewalls for secure resource management.
+
+• Managed and monitored Azure virtual machines, storage, and network resources. 
+•	Implemented Azure Active Directory and RBAC for secure access control. 
+•	Automated deployments and tasks using PowerShell and Azure CLI. 
+•	Optimized cloud costs through Azure Cost Management and budget alerts. 
+•	Deployed and configured Azure security tools like Key Vault and firewalls. 
+•	Troubleshot performance and connectivity issues in Azure environments
 
 **Junior Cloud Engineer** – CTSI Global | Sept 2021 – Dec 2022
-- Architected secure, multi-tier AWS infrastructure using **VPCs** and **IAM** policies.
-- Implemented **CloudTrail** and automated security monitoring for compliance.
+
+•	Architected stable, multi-tier infrastructure with AWS VPCs, subnets, and security corporations. 
+•	Enhanced application safety with the aid of integrating AWS CloudFront with SSL/TLS for encrypted content material delivery. 
+•	Implemented RBAC and least-privilege access manipulate the usage of AWS IAM rules. 
+•	Automated safety monitoring with AWS CloudTrail, making sure compliance with guidelines. 
+•	Applied AWS KMS for facts encryption in transit and at rest, securing touchy information
 
  **Junior Cloud Engineer** – Aquila Software Services | Aug 2020 – Aug 2021
-- Developed **IaC scripts** using **AWS CloudFormation**, automating deployments with reduced error rates.
-- Deployed AI models in **AWS SageMaker** for large datasets and optimized **TensorFlow** predictions.
+
+• Created IaC scripts using AWS CloudFormation, speeding up deployment processes and reducing errors. 
+•	Built and trained machine learning models in AWS SageMaker for large data sets. 
+•	Docker containers from Python base images have been developed to optimize instance deployment on AWS SageMaker. 
+•	TensorFlow was modeled and optimized in SageMaker to improve prediction accuracy. 
+•	Automated Python-based data extraction processes, significantly reducing manual processing time. 
+•	Executed complex SQL queries in MySQL and SQL Server, which improved data retrieval performance. 
+•	Collaborated cross-functionally to align cloud solutions with business objectives. 
+
 
 </div>
 
