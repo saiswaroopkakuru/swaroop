@@ -1,10 +1,9 @@
 
-![Cloud Background](https[://user-images.githubusercontent.com/123456789/cloud-background.jpg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*lIfVZSwXyraK962Fb9rfsg.png)
 
 # Hi, I'm **Venkata Sai Swaroop Kakuru** 👋  
 ### 🚀 **Cloud Engineer | DevOps Enthusiast | AI & Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/sai-swaroop-1199sai) [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username) ![Location](https://img.shields.io/badge/Location-USA-blue?style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/sai-swaroop-1199sai) (https://github.com/saiswaroopkakuru) ![Location](https://img.shields.io/badge/Location-USA-red-blue?style=flat)
 
 ---
 
