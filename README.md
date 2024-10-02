@@ -1,5 +1,5 @@
 
-![Cloud Background](https[://user-images.githubusercontent.com/123456789/cloud-background.jpg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*lIfVZSwXyraK962Fb9rfsg.png)) 
+![Cloud Background](https[://user-images.githubusercontent.com/123456789/cloud-background.jpg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*lIfVZSwXyraK962Fb9rfsg.png)
 
 # Hi, I'm **Venkata Sai Swaroop Kakuru** 👋  
 ### 🚀 **Cloud Engineer | DevOps Enthusiast | AI & Automation**
