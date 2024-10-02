@@ -63,7 +63,7 @@
 
 ### 🛠️ **Tech Stack & Tools**
 
-<div align="center" style="background-color:#f7faff; padding: 15px; border-radius: 10px;">
+<div align="left" style="background-color:#0000FF; padding: 30px; border-radius: 10px;">
 
 #### **Cloud Platforms**:
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
