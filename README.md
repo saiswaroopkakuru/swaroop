@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/saiswaroopkakuru" target="_blank">
-      <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
+      <img src="https://img.shields.io/github/followers/saiswaroopkakuru?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
     </a>
   </p>
   
